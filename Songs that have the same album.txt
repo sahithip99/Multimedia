@@ -16,8 +16,6 @@ Song_Name Miss you Most(At Christmas Time)
 TOP HITS of 2019 ALBUM - ARTISTS (Multiple) AND SONGS
 ---------------------------------
 
-Album_Name Top Hits 2019
-
 First song of the album:
 
 Artist_ID 6001
@@ -28,13 +26,32 @@ Album_Name Top Hits 2019
 Song_ID 1300
 Song_Name Bad Guy
 
-Second song and artist of the album album:
+Second song of the album:
+Artist_ID 5300
+Artist_Name Post Malone
+Album_ID 6830
+Album_Name Top Hits 2019
+
+Song_ID 1560
+Song_Name Goodbyes
+
+Third song of the album:
+
 Artist_ID 6001
 Artist_Name Billie Eilish
 Album_ID 6830
 Album_Name Top Hits 2019
 
-Song_ID 1300
-Song_Name Bad Guy
-Song_ID : 1560
-Artist Name 
+Song_ID 1450
+Song_Name Bury a Friend
+
+Fourth song of the album:
+Artist_ID 6021
+Artist_Name Shawn Mendes
+Album_ID 6830
+Album_Name Top Hits 2019
+
+Song_ID 1250
+Song_Name Senorita
+Feat_Singer_ID 6021
+

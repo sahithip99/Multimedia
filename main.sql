@@ -88,6 +88,7 @@ CREATE TABLE Song(
     INSERT into Singer(Singer_ID,Singer_FName,Singer_LName,Total_Num_Songs,Total_Num_Albums) values('6000','Queen',null,'22','3');
     INSERT into Singer(Singer_ID,Singer_FName,Singer_LName,Total_Num_Songs,Total_Num_Albums) values('6001','Billie','Eilish','20','2');
     INSERT into Singer(Singer_ID,Singer_FName,Singer_LName,Total_Num_Songs,Total_Num_Albums) values('5300','Post','Malone','25','3');
+    INSERT into Singer(Singer_ID,Singer_FName,Singer_LName,Total_Num_Songs,Total_Num_Albums) values('1250','Shawn','Mendes','4','1');
     
     
     INSERT into Song(Song_ID,Album_ID,Song_Title,Song_Length,Genre,Download_Permit,File_ID,Feat_Singer_ID,Singer_ID) values('2234','8776','Hey Brother',4.37,'Pop','Permit','0001',null,9004);
@@ -99,7 +100,8 @@ CREATE TABLE Song(
     INSERT into Song(Song_ID,Album_ID,Song_Title,Song_Length,Genre,Download_Permit,File_ID,Feat_Singer_ID,Singer_ID) values('2019','6660','Miss you Most(At Christmas Time)',4.00,'Pop','Yes','0007',null,7078);
     INSERT into Song(Song_ID,Album_ID,Song_Title,Song_Length,Genre,Download_Permit,File_ID,Feat_Singer_ID,Singer_ID) values('1300','6830','Bad Guy',3.40,'Pop','No','0008',null,6001);
     INSERT into Song(Song_ID,Album_ID,Song_Title,Song_Length,Genre,Download_Permit,File_ID,Feat_Singer_ID,Singer_ID) values('1560','6830','Goodbyes',2.00,'Rap','No','0009',null,5300);
-
+    INSERT into Song(Song_ID,Album_ID,Song_Title,Song_Length,Genre,Download_Permit,File_ID,Feat_Singer_ID,Singer_ID) values('1450','6830','Bury a Friend',6.00,'Pop','Yes','0010',null,6001);
+    INSERT into Song(Song_ID,Album_ID,Song_Title,Song_Length,Genre,Download_Permit,File_ID,Feat_Singer_ID,Singer_ID) values('1250','6830','Senorita',2.30,'Pop','Yes','0011',1200,6021);
     
     INSERT into SongBy(Singer_ID,Song_ID,Album_ID) values('9004','2234','5006');
     INSERT into SongBy(Singer_ID,Song_ID,Album_ID) values('7008','2344','5007');
