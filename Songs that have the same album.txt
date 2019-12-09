@@ -3,7 +3,8 @@ Merry Christmas ALbum - ARTIST (ONE ARTIST) and Songs
 
 ARTIST OF THE ALBUM:
 Artist_ID 7078
-Artist Name Mariah Carey
+Artist_FName Mariah 
+Artist_LName Carey
 Album ID 6660
 Album Name Merry Christmas
 
@@ -19,7 +20,8 @@ TOP HITS of 2019 ALBUM - ARTISTS (Multiple) AND SONGS
 First song of the album:
 
 Artist_ID 6001
-Artist_Name Billie Eilish
+Artist_FName Billie 
+Artist_LName Eilish
 Album_ID 6830
 Album_Name Top Hits 2019
 
@@ -28,7 +30,8 @@ Song_Name Bad Guy
 
 Second song of the album:
 Artist_ID 5300
-Artist_Name Post Malone
+Artist_FName Post 
+Artist_LName Malone
 Album_ID 6830
 Album_Name Top Hits 2019
 
@@ -38,7 +41,8 @@ Song_Name Goodbyes
 Third song of the album:
 
 Artist_ID 6001
-Artist_Name Billie Eilish
+Artist_FName Billie 
+Artist_LName Eilish
 Album_ID 6830
 Album_Name Top Hits 2019
 
@@ -47,11 +51,14 @@ Song_Name Bury a Friend
 
 Fourth song of the album:
 Artist_ID 6021
-Artist_Name Shawn Mendes
+Artist_FName Shawn 
+Artist_LName Mendes
 Album_ID 6830
 Album_Name Top Hits 2019
 
 Song_ID 1250
 Song_Name Senorita
 Feat_Singer_ID 6021
+Feat_SInger_FName Camila
+Feat_Singer_LName Cabello
 
